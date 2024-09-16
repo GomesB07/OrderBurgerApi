@@ -4,16 +4,6 @@
 
 Back end em NodeJs com Express feito para consumir e alimentar o Front end da aplicação sobre uma lista de pedidos, onde é armazenado o nome do cliente junto ao pedido e o id gerado pela biblioteca UUID.
 
-## Layout Mobile
-
-<img src="https://github.com/GomesB07/OrderBurgerApi/assets/93354781/d23f66b4-bed1-4469-931c-52fda1172938" width="300px" />
-<img src="https://github.com/GomesB07/OrderBurgerApi/assets/93354781/29497236-49e9-4ccf-8810-c34d5ded8126" width="300px" />
-
-## Layout Web
-
-<img src="https://github.com/GomesB07/OrderBurgerApi/assets/93354781/03d62af3-de4a-4dbd-8e0b-abb4e247170e" width="500px" />
-<img src="https://github.com/GomesB07/OrderBurgerApi/assets/93354781/1dff3eeb-c16b-4371-ad41-f63283d35dc3" width="500px" />
-
 # Tecnologias utilizadas
 
 ## Back end
